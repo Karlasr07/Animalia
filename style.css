@@ -1,0 +1,38 @@
+
+
+body{
+   background-color: azure;
+    /*cambio de tipografia*/
+    font-family: 'Titillium Web', sans-serif;
+
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-top: 30px;
+}
+p{
+    /*color de parrafos*/ 
+    color: rgb(0, 0, 0);
+}
+/*color de parrafo único y siempre hay que poner un punto*/
+.p-Ardilla-roja{color: rgb(0, 0, 0);}
+/*color de texto único y tamaño*/
+.h1-titulo {
+    font-family: 'Belanosima', sans-serif;
+    font-size: 50px;
+}
+.menu{ 
+    /* div. flexible para moverse con los elementos dentro de si*/
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+
+}
+a{ 
+    /*color de texto*/
+    color: brown;
+    /*líne debajo de la ancla*/
+    text-decoration: none;
+}
