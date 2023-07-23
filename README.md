@@ -1,2 +1,2 @@
-# Animalia
-Mi primer página
+## Animalia
+Mi primer página acerca de animales (ardillas)
